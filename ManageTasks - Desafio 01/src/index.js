@@ -104,3 +104,5 @@ app.delete("/todos/:id", (request, response) => {
 })
 
 app.listen(3322);
+
+module.exports = app;
