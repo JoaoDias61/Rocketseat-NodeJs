@@ -1,4 +1,4 @@
-import { Category } from "../routes/model/Category";
+import { Category } from "../model/Category";
 import { ICategoriesRepository } from "./ICategoriesRepository";
 
 interface ICreateCategoryDTO {
